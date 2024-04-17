@@ -7,7 +7,7 @@ Task Scheduler is a simple JavaScript package that allows you to schedule tasks 
 You can install Task Scheduler via npm:
 
 ```bash
-npm install task-scheduler
+npm install task-scheduler-b4h1325oop1
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install task-scheduler
 To use Task Scheduler in your Node.js application, require the package and create a new instance of the `TaskScheduler` class. Then, schedule tasks using the `scheduleTask` method.
 
 ```javascript
-const TaskScheduler = require('task-scheduler');
+const TaskScheduler = require('task-scheduler-b4h1325oop1');
 
 // Create a new TaskScheduler instance
 const scheduler = new TaskScheduler();

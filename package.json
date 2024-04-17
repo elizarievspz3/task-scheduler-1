@@ -1,5 +1,5 @@
 {
-  "name": "task-scheduler-1",
+  "name": "task-scheduler-b4h1325oop1",
   "version": "1.0.0", 
   "description": "Develop a package that allows users to schedule tasks and events in their Node.js applications with ease, providing functionalities like recurring tasks, notifications, and error handling.",
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elizarievspz3/task-scheduler-1.git"
+    "url": "https://github.com/elizarievspz3/task-scheduler-b4h1325oop1.git"
   },
   "keywords": [
     "", 
